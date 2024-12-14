@@ -3,7 +3,6 @@
 <html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='1.3.0' expr:class='data:blog.languageDirection' expr:dir='data:blog.languageDirection' expr:lang='data:blog.localeUnderscoreDelimited' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <b:include name='theme-dark-mode'/>
 <head>
-  <script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4279431346136781'/>
 <b:include name='theme-head'/>
 <b:if cond='!data:view.isLayoutMode'>
 <!-- Theme CSS Style -->
@@ -12,7 +11,7 @@
 /* -----------------------------------------------
 Blogger Template Style
 Name     :  LiteSpot
-License  :  Premium Version
+License  :  Premium Modified Version
 Version  :  v2.0
 Author   :  theAShub
 Website  :  www.theashub.com
